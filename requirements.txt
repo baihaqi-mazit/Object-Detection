@@ -1,0 +1,8 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.7.1+cu101
+tqdm==4.56.0
+numpy==1.19.5
+matplotlib==3.3.3
+opencv_python==4.5.1.48
+components==1.2.8
+Pillow==8.2.0

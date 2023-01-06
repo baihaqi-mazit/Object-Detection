@@ -1,0 +1,90 @@
+{
+    "id": 363,
+    "createdAt": "02 / 06 / 2021 14:32:27",
+    "trainingFile": [
+        {
+            "id": 364,
+            "fileName": "Invoice_9.jpg",
+            "fileType": "jpeg",
+            "url": "https://xaiocr.s3.ap-southeast-1.amazonaws.com/202106021432273.jpeg"
+        },
+        {
+            "id": 365,
+            "fileName": "Invoice_9.xml",
+            "fileType": "xml",
+            "url": "https://xaiocr.s3.ap-southeast-1.amazonaws.com/202106021432271.xml"
+        },
+        {
+            "id": 366,
+            "fileName": "Invoice_12.xml",
+            "fileType": "xml",
+            "url": "https://xaiocr.s3.ap-southeast-1.amazonaws.com/202106021432270.xml"
+        },
+        {
+            "id": 367,
+            "fileName": "Invoice_12.jpg",
+            "fileType": "jpeg",
+            "url": "https://xaiocr.s3.ap-southeast-1.amazonaws.com/202106021432271.jpeg"
+        },
+        {
+            "id": 434,
+            "fileName": "Invoice_106_106.jpg",
+            "fileType": "jpeg",
+            "url": "https://xaiocr.s3.ap-southeast-1.amazonaws.com/202106021458322.jpeg"
+        },
+        {
+            "id": 435,
+            "fileName": "Invoice_106_106.xml",
+            "fileType": "xml",
+            "url": "https://xaiocr.s3.ap-southeast-1.amazonaws.com/202106021458322.xml"
+        },
+        {
+            "id": 437,
+            "fileName": "Invoice_105_105.xml",
+            "fileType": "xml",
+            "url": "https://xaiocr.s3.ap-southeast-1.amazonaws.com/202106021459331.xml"
+        },
+        {
+            "id": 438,
+            "fileName": "Invoice_105_105.jpg",
+            "fileType": "jpeg",
+            "url": "https://xaiocr.s3.ap-southeast-1.amazonaws.com/202106021459330.jpeg"
+        },
+        {
+            "id": 440,
+            "fileName": "Invoice_109.xml",
+            "fileType": "xml",
+            "url": "https://xaiocr.s3.ap-southeast-1.amazonaws.com/202106021459510.xml"
+        },
+        {
+            "id": 441,
+            "fileName": "Invoice_109.jpg",
+            "fileType": "jpeg",
+            "url": "https://xaiocr.s3.ap-southeast-1.amazonaws.com/202106021459512.jpeg"
+        },
+        {
+            "id": 446,
+            "fileName": "Invoice_192.xml",
+            "fileType": "xml",
+            "url": "https://xaiocr.s3.ap-southeast-1.amazonaws.com/202106021500180.xml"
+        },
+        {
+            "id": 447,
+            "fileName": "Invoice_192.jpg",
+            "fileType": "jpeg",
+            "url": "https://xaiocr.s3.ap-southeast-1.amazonaws.com/202106021500180.jpeg"
+        },
+        {
+            "id": 452,
+            "fileName": "Invoice_174.xml",
+            "fileType": "xml",
+            "url": "https://xaiocr.s3.ap-southeast-1.amazonaws.com/202106021505470.xml"
+        },
+        {
+            "id": 453,
+            "fileName": "Invoice_174.jpg",
+            "fileType": "jpeg",
+            "url": "https://xaiocr.s3.ap-southeast-1.amazonaws.com/202106021505473.jpeg"
+        }
+    ]
+}
